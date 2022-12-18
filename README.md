@@ -1,1 +1,3 @@
-Simple shell project
+C - Simple Shell
+
+programed using C
